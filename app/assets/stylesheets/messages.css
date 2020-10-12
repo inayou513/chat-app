@@ -13,7 +13,7 @@
   padding: 0 20px;
 }
 
-.side_bar_body {
+.room {
   height: calc(100vh - 100px);
   background-color: #2f3e51;
   padding: 0 20px;
