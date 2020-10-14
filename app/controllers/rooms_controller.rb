@@ -10,8 +10,8 @@ class RoomsController < ApplicationController
     else
       render :new
     end
-  end 
-  
+  end
+
   private
 
   def room_params
